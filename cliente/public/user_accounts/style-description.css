@@ -1,0 +1,59 @@
+.password {
+  -webkit-text-security: disc;
+  font-variant: normal;
+}
+
+.text {
+  font-style: normal;
+}
+
+#iconTR {
+  margin-right: 10px;
+  font-size: medium;
+}
+
+th {
+  font-size: large;
+}
+
+p {
+  text-align: center;
+}
+
+#contentTable {
+  vertical-align: middle;
+}
+
+#info, #info2, #info3, #info4 {
+  color: #536878;
+}
+
+.actions {
+  text-align: center;
+}
+
+h4 {
+  color: #536878;
+}
+
+#actions {
+  text-align: center;
+}
+
+a, a:hover {
+  color: #333
+}
+
+#nota, #bank, #adress {
+  margin: 10px;
+}
+
+h4>i  {
+  margin-right: 10px;
+  margin-left: 15px;
+}
+
+
+#actionsNote {
+  padding-right: 23px;
+}
